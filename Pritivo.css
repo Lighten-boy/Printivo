@@ -1,0 +1,238 @@
+.f-header{
+    background-color: #F7F6F4;
+}
+body{
+    overflow-x: hidden;
+}
+.cost{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #506683;
+    font-weight:bold; 
+    padding: 20px;
+    margin-top: -8px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+.help{
+    margin-left: 20%;
+}
+.whatsapp{
+    margin-top: -5px;
+}
+.nig{
+    border:1px solid #cfcfcd ;
+    padding: 3px;
+    border-radius: 20px;
+    margin-top: -11px;
+    padding-top: 10px;
+    padding-right: 10px;
+    
+}
+.ni{
+    margin-top: -18px;
+    margin-left: 30px;
+}
+.s-header{
+    background-color: #ECE8D9;
+    padding-top: ;
+    width: 100%;
+}
+.i{
+    margin-left: -1px;
+}
+.sign{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #506683;
+    font-weight:bold; 
+    padding: 20px;
+    margin-top: -8px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+.market{
+    margin-top: 4px;
+    margin-left: -45px;
+}
+.all{
+    margin-top: 12px;
+    margin-left: -45px;
+}
+
+.title{
+    font-size: 4.2rem;
+    background-color: #ECE8D9;;
+    color: #384a62;
+    font-family: "dm serif display",serif;
+    line-height: 2.5rem;
+    margin-bottom: 2rem;
+    font-weight: bold ;
+    padding-left: 95px;
+}
+.door{
+    color: #708095;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 2.25rem;
+    padding-left: 95px;
+}
+.today{
+    letter-spacing: .04em;
+    font-weight: 700;
+    font-family: SF Pro,sans-serif;
+    --tw-text-opacity: 1;
+    color: rgba(56,74,98,var(--tw-text-opacity));
+    display: block;
+    margin-bottom: 0.25rem;
+    padding-left: 95px;
+}
+.mug{
+    font-family: SF Pro,sans-serif;
+    width: 700px;
+    outline: none;
+    padding: 30px 0;
+    text-indent: 20px;
+    border-radius: 4px;
+    border: 1px solid #e8e8e8;
+    margin-left: 95px;
+}
+.ser{
+    
+}
+
+.page{
+    width: 250px;
+    display: block;
+    left: 1070px;
+    bottom: 225px;
+    position: absolute;
+}
+.mar{
+    background-color: rgb(243,177,205);
+    padding: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.poppro{
+    justify-content: space-between;
+    display: flex;
+}
+
+.pop{
+    color: #384a62;
+    font-family: "dm serif display",serif;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+.pro{
+    color: #d77f81;
+    line-height: 2.2;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.overall{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    grid-gap: 30px;
+    margin-top: 1.5rem;
+}
+.box{
+    border-radius: 3px 3px 0 0;
+    display: flex;
+    flex-direction: column;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.shoe{
+    overflow: hidden;
+    min-height: 150px;
+}
+.shoes{
+    height: 14rem;
+    width: 100%;
+    object-fit: cover;
+    transition: transform .2s;
+    max-width: 100%;
+    display: block;
+    vertical-align: middle;
+    /* border-style: solid; */
+}
+.s-text{
+    letter-spacing: .04em;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-weight: 700;
+    padding: 1rem;
+}
+.car{
+    color: #384a62;
+    margin-bottom: 1.25rem;
+    font-size: inherit;
+    font-weight: inherit;
+    margin: 0px;
+}
+.start{
+    color: #708095;
+    font-size: .8rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    margin: 0px;
+}
+.nu{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    margin-bottom: 1.25rem;
+    margin: 0px;
+}
+.bro{
+    text-decoration: inherit;
+    font-family: "SF Pro", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    border-radius: 3px;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    letter-spacing: initial;
+    display: inline-block;
+    --tw-bg-opacity: 1;
+    background-color: rgba(215,127,129,var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgba(255,255,255,var(--tw-text-opacity));
+    padding: 0.625rem 0.875rem;
+}
+.field{
+    width: 20%;
+    border: 1px solid #eeeeee;
+    
+}
+.f-sec{
+    display: flex;
+    gap: 20px;
+    margin-left: 130px;
+}
+.s-sec{
+    display: flex;
+    gap: 20px;
+    margin-left: 130px;
+}
+.t-sec{
+    display: flex;
+    gap: 20px; 
+    margin-left: 130px;
+}
+.fth-sec{
+    display: flex;
+    gap: 20px;
+    margin-left: 130px;
+}
